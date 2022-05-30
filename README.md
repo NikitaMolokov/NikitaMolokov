@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Welcome To My GitHub Profile, I'm Nikita Molokov.
+Hello,I'm a student at Tallinn Polytechnic School studying software development.
 
 **Back-end**
 

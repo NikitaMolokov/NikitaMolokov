@@ -37,7 +37,8 @@ Hello,I'm a student at Tallinn Polytechnic School studying software development.
 
 
 ## 𝗦𝘁𝗮𝘁𝘀
-![NikitaMolokov github stats](https://github-readme-stats.vercel.app/apiusername=NikitaMolokov&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+
+![NikitaMolokov github stats](https://github-readme-stats.vercel.app/api?username=NikitaMolokov&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 ![NikitaMolokov Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NikitaMolokov&layout=compact&count_private=true&theme=gruvbox)
 
 <!--
